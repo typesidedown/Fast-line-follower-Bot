@@ -30,6 +30,10 @@ This project implements a line follower robot using infrared sensors for line de
 - PlatformIO IDE
 - Arduino framework
 
+![Circuit_layout](Circuit_Layout_Fritzing.jpg)
+![Chassis_CAD](Chassis_CAD.jpg)
+![Circuit Final](Circuit_final.jpg)
+
 ## Build and Upload
 
 1. Open the project in PlatformIO.
